@@ -67,9 +67,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 ## Sliding Window
 |  |
 | ------- |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
-
+## Memoization
+|  |
+| ------- |
+| [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 <!---LeetCode Topics End-->
