@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Hash Table
 |  |
 | ------- |
@@ -119,4 +120,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1818-maximum-score-from-removing-substrings](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/1818-maximum-score-from-removing-substrings) |
+## Segment Tree
+|  |
+| ------- |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+## Enumeration
+|  |
+| ------- |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+## Prefix Sum
+|  |
+| ------- |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 <!---LeetCode Topics End-->
