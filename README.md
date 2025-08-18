@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/0342-power-of-four) |
+| [0679-24-game](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/0826-soup-servings) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1448-maximum-69-number](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/1448-maximum-69-number) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/0118-pascals-triangle) |
+| [0679-24-game](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/0679-24-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0679-24-game](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/0679-24-game) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Brainteaser
 |  |
