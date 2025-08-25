@@ -36,11 +36,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/0498-diagonal-traverse) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Array
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/0118-pascals-triangle) |
+| [0498-diagonal-traverse](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/0498-diagonal-traverse) |
 | [0679-24-game](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/0679-24-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/0498-diagonal-traverse) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/1628-count-submatrices-with-all-ones) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
