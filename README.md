@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/0036-valid-sudoku) |
 | [0118-pascals-triangle](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/0118-pascals-triangle) |
 | [0498-diagonal-traverse](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/0498-diagonal-traverse) |
 | [0679-24-game](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/0679-24-game) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/0036-valid-sudoku) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1813-maximum-erasure-value](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/1813-maximum-erasure-value) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/0036-valid-sudoku) |
 | [0498-diagonal-traverse](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/0498-diagonal-traverse) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/1628-count-submatrices-with-all-ones) |
