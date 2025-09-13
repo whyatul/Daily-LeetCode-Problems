@@ -93,10 +93,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
 |  |
 | ------- |
 | [1510-find-lucky-integer-in-an-array](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Design
 |  |
 | ------- |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2346-largest-3-same-digit-number-in-string](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [3396-valid-word](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/3396-valid-word) |
 | [3462-vowels-game-in-a-string](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/3462-vowels-game-in-a-string) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Depth-First Search
 |  |
 | ------- |
