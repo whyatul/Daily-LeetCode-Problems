@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/0498-diagonal-traverse) |
 | [0679-24-game](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/0679-24-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1006-vowel-spellchecker](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/1006-vowel-spellchecker) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/0036-valid-sudoku) |
+| [1006-vowel-spellchecker](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/1006-vowel-spellchecker) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1813-maximum-erasure-value](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1006-vowel-spellchecker](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/1006-vowel-spellchecker) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/1818-maximum-score-from-removing-substrings) |
