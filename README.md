@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/0036-valid-sudoku) |
 | [0118-pascals-triangle](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/0118-pascals-triangle) |
 | [0498-diagonal-traverse](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/0498-diagonal-traverse) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/0036-valid-sudoku) |
 | [0166-fraction-to-recurring-decimal](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/0166-fraction-to-recurring-decimal) |
 | [1006-vowel-spellchecker](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/1006-vowel-spellchecker) |
