@@ -1,6 +1,71 @@
 # Daily-LeetCode-Problems
 A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 
+| Date | Question Name | Topic Covered | Time Complexity | Space Complexity |
+|------|---------------|---------------|-----------------|------------------|
+| 2025-11-29 | [Two Sum](https://leetcode.com/problems/two-sum/) | N/A | 46 ms | 14.2 MB |
+| 2025-08-30 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | N/A | 8 ms | 26.4 MB |
+| 2025-08-01 | [Pascals Triangle](https://leetcode.com/problems/pascals-triangle/) | N/A | 0 ms | 9.7 MB |
+| 2025-09-24 | [Fraction To Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/) | N/A | 0 ms | 8.7 MB |
+| 2025-11-29 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | N/A | 20 ms | 70.8 MB |
+| 2025-08-10 | [Power Of Two](https://leetcode.com/problems/power-of-two/) | N/A | 0 ms | 7.8 MB |
+| 2025-08-15 | [Power Of Four](https://leetcode.com/problems/power-of-four/) | N/A | 0 ms | 7.7 MB |
+| 2025-08-26 | [Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/) | N/A | 0 ms | 22.3 MB |
+| 2025-08-18 | [24 Game](https://leetcode.com/problems/24-game/) | N/A | 96 ms | 38.7 MB |
+| 2025-08-08 | [Soup Servings](https://leetcode.com/problems/soup-servings/) | N/A | 0 ms | 9.8 MB |
+| 2025-07-31 | [Bitwise Ors Of Subarrays](https://leetcode.com/problems/bitwise-ors-of-subarrays/) | N/A | 992 ms | 230.1 MB |
+| 2025-09-14 | [Vowel Spellchecker](https://leetcode.com/problems/vowel-spellchecker/) | N/A | 32 ms | 39.8 MB |
+| 2025-09-28 | [Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/) | N/A | 7 ms | 25.5 MB |
+| 2025-09-15 | [Maximum Number Of Words You Can Type](https://leetcode.com/problems/maximum-number-of-words-you-can-type/) | N/A | 3 ms | 9.1 MB |
+| 2025-07-21 | [Delete Characters To Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string/) | N/A | 27 ms | 44.5 MB |
+| 2025-07-19 | [Remove Sub Folders From The Filesystem](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/) | N/A | 57 ms | 49.2 MB |
+| 2025-08-20 | [Count Square Submatrices With All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/) | N/A | 7 ms | 27.4 MB |
+| 2025-07-14 | [Convert Binary Number In A Linked List To Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | N/A | 0 ms | 10.4 MB |
+| 2025-09-08 | [Convert Integer To The Sum Of Two No Zero Integers](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/) | N/A | 0 ms | 8 MB |
+| 2025-08-16 | [Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/) | N/A | 0 ms | 8.1 MB |
+| 2025-07-07 | [Maximum Number Of Events That Can Be Attended](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/) | N/A | 59 ms | 75 MB |
+| 2025-07-05 | [Find Lucky Integer In An Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/) | N/A | 0 ms | 13.9 MB |
+| 2025-08-25 | [Longest Subarray Of 1S After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/) | N/A | 3 ms | 60 MB |
+| 2025-08-22 | [Count Submatrices With All Ones](https://leetcode.com/problems/count-submatrices-with-all-ones/) | N/A | 7 ms | 21.5 MB |
+| 2025-07-22 | [Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/) | N/A | 201 ms | 131.1 MB |
+| 2025-07-23 | [Maximum Score From Removing Substrings](https://leetcode.com/problems/maximum-score-from-removing-substrings/) | N/A | 20 ms | 28.4 MB |
+| 2025-09-10 | [Minimum Number Of People To Teach](https://leetcode.com/problems/minimum-number-of-people-to-teach/) | N/A | 8 ms | 64.7 MB |
+| 2025-07-08 | [Maximum Number Of Events That Can Be Attended Ii](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended-ii/) | N/A | 101 ms | 112.6 MB |
+| 2025-09-01 | [Maximum Average Pass Ratio](https://leetcode.com/problems/maximum-average-pass-ratio/) | N/A | 275 ms | 98 MB |
+| 2025-07-06 | [Finding Pairs With A Certain Sum](https://leetcode.com/problems/finding-pairs-with-a-certain-sum/) | N/A | 0 ms | 81.8 MB |
+| 2025-07-12 | [The Earliest And Latest Rounds Where Players Compete](https://leetcode.com/problems/the-earliest-and-latest-rounds-where-players-compete/) | N/A | 0 ms | 8.3 MB |
+| 2025-07-28 | [Count Number Of Maximum Bitwise Or Subsets](https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/) | N/A | 0 ms | 10.5 MB |
+| 2025-08-03 | [Maximum Fruits Harvested After At Most K Steps](https://leetcode.com/problems/maximum-fruits-harvested-after-at-most-k-steps/) | N/A | 3 ms | 124.3 MB |
+| 2025-07-18 | [Minimum Difference In Sums After Removal Of Elements](https://leetcode.com/problems/minimum-difference-in-sums-after-removal-of-elements/) | N/A | 83 ms | 154.9 MB |
+| 2025-07-27 | [Count Hills And Valleys In An Array](https://leetcode.com/problems/count-hills-and-valleys-in-an-array/) | N/A | 0 ms | 12 MB |
+| 2025-08-14 | [Largest 3 Same Digit Number In String](https://leetcode.com/problems/largest-3-same-digit-number-in-string/) | N/A | 0 ms | 9.4 MB |
+| 2025-09-10 | [Number Of People Aware Of A Secret](https://leetcode.com/problems/number-of-people-aware-of-a-secret/) | N/A | 0 ms | 9.5 MB |
+| 2025-08-19 | [Number Of Zero Filled Subarrays](https://leetcode.com/problems/number-of-zero-filled-subarrays/) | N/A | 2 ms | 111.2 MB |
+| 2025-07-13 | [Maximum Matching Of Players With Trainers](https://leetcode.com/problems/maximum-matching-of-players-with-trainers/) | N/A | 34 ms | 80.1 MB |
+| 2025-07-29 | [Smallest Subarrays With Maximum Bitwise Or](https://leetcode.com/problems/smallest-subarrays-with-maximum-bitwise-or/) | N/A | 27 ms | 60.8 MB |
+| 2025-07-30 | [Longest Subarray With Maximum Bitwise And](https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and/) | N/A | 8 ms | 86.2 MB |
+| 2025-09-05 | [Minimum Operations To Make The Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | N/A | 0 ms | 8.4 MB |
+| 2025-08-12 | [Ways To Express An Integer As Sum Of Powers](https://leetcode.com/problems/ways-to-express-an-integer-as-sum-of-powers/) | N/A | 57 ms | 9.5 MB |
+| 2025-09-02 | [Find The Number Of Ways To Place People I](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-i/) | N/A | 4 ms | 32.6 MB |
+| 2025-08-29 | [Alice And Bob Playing Flower Game](https://leetcode.com/problems/alice-and-bob-playing-flower-game/) | N/A | 0 ms | 8.4 MB |
+| 2025-07-15 | [Valid Word](https://leetcode.com/problems/valid-word/) | N/A | 0 ms | 8.1 MB |
+| 2025-08-23 | [Find The Minimum Area To Cover All Ones Ii](https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-ii/) | N/A | 9 ms | 25.1 MB |
+| 2025-09-13 | [Vowels Game In A String](https://leetcode.com/problems/vowels-game-in-a-string/) | N/A | 1 ms | 19.1 MB |
+| 2025-07-16 | [Find The Maximum Length Of Valid Subsequence I](https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-i/) | N/A | 0 ms | 96.3 MB |
+| 2025-07-18 | [Find The Maximum Length Of Valid Subsequence Ii](https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-ii/) | N/A | 96 ms | 130.8 MB |
+| 2025-07-03 | [Find The K Th Character In String Game I](https://leetcode.com/problems/find-the-k-th-character-in-string-game-i/) | N/A | 4 ms | 9 MB |
+| 2025-07-04 | [Find The K Th Character In String Game Ii](https://leetcode.com/problems/find-the-k-th-character-in-string-game-ii/) | N/A | 3 ms | 28.6 MB |
+| 2025-08-08 | [Find The Maximum Number Of Fruits Collected](https://leetcode.com/problems/find-the-maximum-number-of-fruits-collected/) | N/A | 50 ms | 137.7 MB |
+| 2025-07-10 | [Reschedule Meetings For Maximum Free Time Ii](https://leetcode.com/problems/reschedule-meetings-for-maximum-free-time-ii/) | N/A | 16 ms | 150.3 MB |
+| 2025-07-09 | [Reschedule Meetings For Maximum Free Time I](https://leetcode.com/problems/reschedule-meetings-for-maximum-free-time-i/) | N/A | 4 ms | 123.2 MB |
+| 2025-09-07 | [Minimum Operations To Make Array Elements Zero](https://leetcode.com/problems/minimum-operations-to-make-array-elements-zero/) | N/A | 23 ms | 183.2 MB |
+| 2025-08-28 | [Sort Matrix By Diagonals](https://leetcode.com/problems/sort-matrix-by-diagonals/) | N/A | 9 ms | 43.3 MB |
+| 2025-07-26 | [Maximize Subarrays After Removing One Conflicting Pair](https://leetcode.com/problems/maximize-subarrays-after-removing-one-conflicting-pair/) | N/A | 152 ms | 324.1 MB |
+| 2025-08-06 | [Fruits Into Baskets Iii](https://leetcode.com/problems/fruits-into-baskets-iii/) | N/A | 106 ms | 189 MB |
+| 2025-09-04 | [Find Closest Person](https://leetcode.com/problems/find-closest-person/) | N/A | 0 ms | 8.6 MB |
+| 2025-09-13 | [Find Most Frequent Vowel And Consonant](https://leetcode.com/problems/find-most-frequent-vowel-and-consonant/) | N/A | 2 ms | 10 MB |
+
+
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Math
