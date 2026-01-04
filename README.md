@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0679-24-game](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/0826-soup-servings) |
 | [1018-largest-perimeter-triangle](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/1018-largest-perimeter-triangle) |
+| [1390-four-divisors](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/1390-four-divisors) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/1448-maximum-69-number) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1006-vowel-spellchecker](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/1018-largest-perimeter-triangle) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1390-four-divisors](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/1390-four-divisors) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
