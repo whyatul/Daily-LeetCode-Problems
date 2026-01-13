@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3453-separate-squares-i](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/3453-separate-squares-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [3453-separate-squares-i](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/3453-separate-squares-i) |
 | [3791-fruits-into-baskets-iii](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/3791-fruits-into-baskets-iii) |
 ## Dynamic Programming
 |  |
