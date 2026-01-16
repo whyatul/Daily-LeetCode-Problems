@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3453-separate-squares-i](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/3453-separate-squares-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
 |  |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
