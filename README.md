@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/1917-maximum-average-pass-ratio) |
 | [1975-maximum-matrix-sum](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/1975-maximum-matrix-sum) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/1917-maximum-average-pass-ratio) |
 | [1975-maximum-matrix-sum](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/1975-maximum-matrix-sum) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/1018-largest-perimeter-triangle) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/3748-sort-matrix-by-diagonals) |
@@ -275,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Linked List
 |  |
