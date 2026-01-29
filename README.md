@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3396-valid-word](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/3396-valid-word) |
 | [3462-vowels-game-in-a-string](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/3462-vowels-game-in-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -406,4 +408,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+## Graph Theory
+|  |
+| ------- |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/2976-minimum-cost-to-convert-string-i) |
+## Shortest Path
+|  |
+| ------- |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/whyatul/Daily-LeetCode-Problems/tree/master/2976-minimum-cost-to-convert-string-i) |
 <!---LeetCode Topics End-->
